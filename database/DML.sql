@@ -1,0 +1,4 @@
+INSERT INTO public.posts (id, titulo,img,descripcion,likes) VALUES
+(default, 'Bahía de Ha-Long','https://images.unsplash.com/photo-1625396836163-80c0d3d7eb86?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', 'La bahía de Ha Long es una extensión de agua de aprox1500 km² Situada en Vietnam',1),
+(default,'Cataratas del Iguazu', 'https://images.unsplash.com/photo-1604626676599-e21a94462216?q=80&w=3163&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', 'Las cataratas del Iguazú se localizan en el río Iguazú, en el límite entre Argentina y Brasil',3),
+(default, 'Torres del Paine', 'https://images.unsplash.com/photo-1544142521-ee53646bf7d6?q=80&w=2896&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D', 'El Parque Nacional Torres del Paine está ubicado en la Región de Magallanes',2);
